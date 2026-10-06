@@ -101,6 +101,7 @@ Crop-Recommendation-System/
     ├── Home_1.html
     ├── index.html
     └── prediction.html
+```
 
 ## Future Improvements
 
@@ -108,3 +109,9 @@ Crop-Recommendation-System/
 - Evaluate models using additional performance metrics.
 - Add visual analytics for soil and weather conditions.
 - Deploy the application to a cloud platform.
+  ```
+  ## Author
+
+**Onkar**
+
+GitHub: https://github.com/Onkar142
