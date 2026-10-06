@@ -110,8 +110,8 @@ Crop-Recommendation-System/
 - Add visual analytics for soil and weather conditions.
 - Deploy the application to a cloud platform.
   ```
-  ## Author
-
+  
+## Author
 **Onkar**
 
 GitHub: https://github.com/Onkar142
