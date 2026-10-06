@@ -112,6 +112,6 @@ Crop-Recommendation-System/
   ```
   
 ## Author
-**Onkar**
+**Onkar Kulkarni**
 
 GitHub: https://github.com/Onkar142
